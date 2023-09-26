@@ -1,0 +1,11 @@
+.CarouselItem{
+   padding: 10px;
+   margin-top: 20px;
+   
+   
+   
+}
+#CarouselD1{
+    display:flex;
+    justify-content:space-around;
+}
